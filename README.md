@@ -27,3 +27,8 @@ This project exists thanks to all the people who contribute.
 <a href="https://github.com/FreeContent4Devs/MyLibrary/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=FreeContent4Devs/MyLibrary&max=24" />
 </a>
+
+## Our telegram channel
+
+[Telegram link 1](https://t.me/+Lj-6PrSqYiM1Yzgx)
+[Telegram link 2](t.me/sicksnerds)
