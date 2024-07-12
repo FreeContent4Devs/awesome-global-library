@@ -1,5 +1,7 @@
 # Livros
 
+<img src="https://github.com/FreeContent4Devs/MyLibrary/blob/main/pt-br/c/img/Aharen_Reina_Holding_C_Programming_Language.png" width="300" height="300">
+
 |# Livros| Conteúdos                                                |
 |------|:---------------------------------------------------------:|
 | 01  |  [C Como Programar](C-Como-Programar.pdf)|
