@@ -18,7 +18,3 @@ We have books in multiple languages, choose yours.
 |------|:---------------------------------------------------------:|
 | 01  |  [English](./en/README.md)|
 | 02  |  [Português Br](./pt-br/README.md)|
-
-## Books 
-```markdown
----Computer architecture
