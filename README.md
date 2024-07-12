@@ -18,3 +18,12 @@ We have books in multiple languages, choose yours.
 |------|:---------------------------------------------------------:|
 | 01  |  [English](./en/README.md)|
 | 02  |  [Português Br](./pt-br/README.md)|
+
+
+## Contributors
+
+This project exists thanks to all the people who contribute. 
+
+<a href="https://github.com/FreeContent4Devs/MyLibrary/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=FreeContent4Devs/MyLibrary&max=24" />
+</a>

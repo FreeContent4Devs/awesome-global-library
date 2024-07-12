@@ -1,5 +1,7 @@
 # Tabela de conteúdos
 
+<img src="../img/semfundo.png" width="300" height="300">
+
 |# Topicos| Conteúdos                                                |
 |------|:---------------------------------------------------------:|
 | 01  |  [Algoritmos](./c/README.md)|
