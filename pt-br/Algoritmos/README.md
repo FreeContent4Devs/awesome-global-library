@@ -1,5 +1,7 @@
 # Livros
 
+<img src="https://github.com/FreeContent4Devs/MyLibrary/blob/main/pt-br/Algoritmos/img/Kana_Arima_Holding_Algorithms_Book.png" width="50" height="50">
+
 |# Livros| Conteúdos                                                |
 |------|:---------------------------------------------------------:|
 | 01  |  [Entendendo Algoritmos](Entendendo_Algoritmos_Um_Guia_Ilustrado_Para_Programadores_e_Outros.pdf)|
