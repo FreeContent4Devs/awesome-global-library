@@ -1,6 +1,6 @@
 # Livros
 
-<img src="https://github.com/FreeContent4Devs/MyLibrary/blob/main/pt-br/Algoritmos/img/Kana_Arima_Holding_Algorithms_Book.png" width="50" height="50">
+<img src="https://github.com/FreeContent4Devs/MyLibrary/blob/main/pt-br/Algoritmos/img/Kana_Arima_Holding_Algorithms_Book.png" width="300" height="300">
 
 |# Livros| Conteúdos                                                |
 |------|:---------------------------------------------------------:|
