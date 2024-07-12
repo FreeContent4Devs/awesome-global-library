@@ -10,3 +10,4 @@
 | 06  |  [Php](./php/README.md)|
 | 07  |  [Haskell](./haskell/README.md)|
 | 08  |  [Mobile Dev](./Mobile-Dev/README.md)|
+| 09  |  [Reverse Engineering](./reverse-engineering/README.md)|

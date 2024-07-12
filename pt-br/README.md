@@ -11,3 +11,4 @@
 | 07  |  [Python](./python/README.md)|
 | 08  |  [Sql](./sql/README.md)|
 | 09  |  [Typescript](./typescript/README.md)|
+| 09  |  [Compiladores](./compiladores/README.md)|
