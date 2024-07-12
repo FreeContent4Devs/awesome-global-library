@@ -31,4 +31,5 @@ This project exists thanks to all the people who contribute.
 ## Our telegram channel
 
 [Telegram link 1](https://t.me/+Lj-6PrSqYiM1Yzgx)
+
 [Telegram link 2](t.me/sicksnerds)
