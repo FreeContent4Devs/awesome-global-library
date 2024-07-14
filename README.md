@@ -32,4 +32,4 @@ This project exists thanks to all the people who contribute.
 
 [Telegram link 1](https://t.me/stupidlibrary)
 
-[Telegram link 2](t.me/sicksnerds)
+[Telegram link 2](https://t.me/sicksnerds)
