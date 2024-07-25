@@ -1,4 +1,4 @@
-# My Library <img img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">[![GitHub followers](https://img.shields.io/github/followers/BrunoCiccarino?label=Follow&style=social)](https://github.com/BrunoCiccarino)
+# Awesome Library <img img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">[![GitHub followers](https://img.shields.io/github/followers/BrunoCiccarino?label=Follow&style=social)](https://github.com/BrunoCiccarino)
 
 This repository aims to become a global library for programmers. We believe that content for those who really want to learn should be free, so take advantage of the chance to study something that you are curious about.
 
