@@ -1,4 +1,4 @@
-# Awesome Library <img img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">[![GitHub followers](https://img.shields.io/github/followers/BrunoCiccarino?label=Follow&style=social)](https://github.com/BrunoCiccarino)
+# Awesome Library <img img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">[![GitHub followers](https://img.shields.io/github/followers/BrunoCiccarino?label=Follow&style=social)](https://github.com/BrunoCiccarino)  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 This repository aims to become a global library for programmers. We believe that content for those who really want to learn should be free, so take advantage of the chance to study something that you are curious about.
 
