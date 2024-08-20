@@ -1,3 +1,21 @@
 # Contribute <img src="https://github.com/fleakos/Fleak/blob/main/images/image.png" width="50">
 
-To contribute to this repository, just make a fork, add the book you have in PDF to the specific topic in your language (If you don't already have anything in your language, create a directory with your language's acronym in the name, (ex: pt- br, en) edit the main readme.md by clicking the main readme in your language's readme and add a table of contents in your language, then create a directory in your language's session with the name of the directory being the subject of the book you want to post and add the certain books in pdf format) then, make a pull request describing what you added in the pull request (describe it in English to make our work easier.) and then wait, and I will authorize the pull request as soon as I get it to read.
+Please ensure your pull request adheres to the following guidelines:
+
+- Good pull requests must have a good commit message, which makes your changes clear.
+- Use the following format: `| Number  |  [Name](pdf link)|`
+- New categories, or improvements to the existing categorization are welcome.
+- Keep descriptions short and simple, but descriptive.
+- End all descriptions with a full stop/period.
+- Check your spelling and grammar.
+- The pull request should include a link to the package and why it should be included.
+
+
+Thank you for your suggestions!
+
+# Contribution to GitHub steps
+
+- Fork it!
+- Clone the repository
+- Edit the readme
+- Open a pull request
