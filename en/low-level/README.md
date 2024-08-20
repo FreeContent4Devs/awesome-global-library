@@ -7,3 +7,4 @@
 | 03  |  [Understanding Linux Kernel](Understanding-Linux-Kernel.pdf)|
 | 04  |  [An introduction to device drivers](An-introduction-to-device-drivers.pdf)|
 | 05  |  [The Linux Kernel Module Programming Guide](The-linux-kernel-module-programming-guide.pdf)|
+| 06  | [The Art Of Assembly Language.pdf](The-Art-Of-Assembly-Language.pdf)
