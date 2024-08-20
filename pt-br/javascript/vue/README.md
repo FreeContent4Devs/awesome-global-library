@@ -2,5 +2,4 @@
 
 |# Livros| Conteúdos                                                |
 |------|:---------------------------------------------------------:|
-| 01  |  [Typescript](typescript/README.md)|
-| 02  |  [Vue](vue/README.md)|
+| 01  |  [VueJS construa aplicações incríveis!!](vuejs-construa-aplicaoes-incriveis.pdf)|

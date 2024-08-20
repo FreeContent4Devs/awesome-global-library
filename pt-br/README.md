@@ -12,5 +12,5 @@
 | 06  |  [Java](./java/README.md)|
 | 07  |  [Python](./python/README.md)|
 | 08  |  [Sql](./sql/README.md)|
-| 09  |  [Typescript](./typescript/README.md)|
+| 09  |  [Javascript](./javascript/README.md)|
 | 10  |  [Compiladores](./compiladores/README.md)|
