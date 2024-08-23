@@ -1,4 +1,4 @@
-# Contribute <img src="https://github.com/fleakos/Fleak/blob/main/images/image.png" width="50">
+# Contributing <img src="https://github.com/fleakos/Fleak/blob/main/images/image.png" width="50">
 
 Please ensure your pull request adheres to the following guidelines:
 
