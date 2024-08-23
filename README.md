@@ -8,7 +8,7 @@ This repository is for you devs who are looking to learn something new, or for y
 
 ## How can I contribute to this repository?
 
-Read the contributors guide by clicking this link: [CONTRIBUTE](CONTRIBUTE.md)
+Read the contributors guide by clicking this link: [CONTRIBUTE](contributing.md)
 
 ## Languages
 
